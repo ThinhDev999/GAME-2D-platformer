@@ -1,14 +1,10 @@
-Tính năng chính:
-Nhân vật:
-Di chuyển, lật hướng, nhảy, nhảy kép, bám tường, nhảy tường, lao nhanh (dash).
-Hệ thống chọn nhân vật với kỹ năng di chuyển riêng biệt.
-Kẻ địch AI:
-AI tuần tra và tấn công bằng cơ chế bắn đạn.
-Cơ chế gameplay:
-Bẫy dựa trên vật lý và khớp nối (physics & joints).
-Hệ thống checkpoint và hồi sinh.
-Lưu trữ tiến độ bằng PlayerPrefs (cấp độ, trạng thái).
-Âm thanh:
-AudioManager hỗ trợ nhạc nền ngẫu nhiên, hiệu ứng âm thanh, thay đổi nhạc theo cấp độ.
-UI/UX:
-Giao diện trạng thái trò chơi (thắng, thua, tạm dừng), hiển thị sức khỏe, và màn hình tiêu đề.
+# Main Features
+
+- **Characters:** Move, rotate, jump, double jump, wall cling, wall jump, dash.
+- **Character Selection System:** Characters with unique movement abilities.
+- **AI Enemies:** AI patrols and attacks using projectile-based shooting mechanics.
+- **Gameplay Mechanics:** Physics and joint-based traps.
+- **Checkpoint & Respawn System.**
+- **Progress Storage:** PlayerPrefs for level and status saving.
+- **Audio:** AudioManager supports random background music, sound effects, and level-specific music changes.
+- **UI/UX:** Game status interface (win, lose, pause), health display, and title screen.
